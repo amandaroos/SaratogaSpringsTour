@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Saratoga Springs, Utah Tour</string>
+
+    <!--Tab titles-->
+    <string name="intro_fragment_name">Parks</string>
+    <string name="food_fragment_name">Food</string>
+    <string name="shop_fragment_name">Shop</string>
+    <string name="sites_fragment_name">Sites</string>
+
+    <!--Parks-->
+    <string name="park1_name">Neptune Park</string>
+    <string name="park1_address">452 W 400 N, Saratoga Springs, UT 84045</string>
+    <string name="park1_details">Playground features a giant pyramid climbing structure.</string>
+
+    <string name="park2_name">Shay Park</string>
+    <string name="park2_address">358 Aspen Hills Blvd, Saratoga Springs, UT 84045</string>
+    <string name="park2_details">Features a miniature train track that runs around the park.</string>
+
+    <!--Food-->
+    <string name="food1_name">Won Won Wok</string>
+    <string name="food1_address">149 Crossroads Boulevard E, Saratoga Springs, UT 84045</string>
+
+    <string name="food2_name">Chubby\'s Cafe</string>
+    <string name="food2_address">1284 N. Redwood Road, Saratoga Springs, UT 84045</string>
+
+    <!--Shop-->
+    <string name="shop1_name">Smith\'s</string>
+    <string name="shop1_address">689 Redwood Road, Saratoga Springs, UT 84045</string>
+
+    <string name="shop2_name">Walgreens</string>
+    <string name="shop2_address">1410 N Redwood Road, Saratoga Springs, UT 84045</string>
+
+    <!--Sites-->
+    <string name="sites1_name">City Hall</string>
+    <string name="sites1_address">1307 Commerce Dr #200, Saratoga Springs, UT 84045</string>
+
+    <string name="sites2_name">Saratoga Springs Public Library</string>
+    <string name="sites2_address">1307 North St, Saratoga Springs, UT 84045</string>
+
+</resources>
