@@ -26,7 +26,6 @@ public class SitesFragment extends Fragment {
         locations.add(new Location(getString(R.string.sites1_name), getString(R.string.sites1_address)));
         locations.add(new Location(getString(R.string.sites2_name), getString(R.string.sites2_address)));
 
-
         //Creat a {@link LocationAdapter}, whose data source is a list of
         //{@link Location}s. The adapter knows how to create list item views for each item in the list
         LocationAdapter adapter = new LocationAdapter(getActivity(), locations);

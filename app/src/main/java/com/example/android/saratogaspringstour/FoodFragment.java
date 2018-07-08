@@ -26,7 +26,6 @@ public class FoodFragment extends Fragment {
         locations.add(new Location(getString(R.string.food1_name), getString(R.string.food1_address)));
         locations.add(new Location(getString(R.string.food2_name), getString(R.string.food2_address)));
 
-
         //Creat a {@link LocationAdapter}, whose data source is a list of
         //{@link Location}s. The adapter knows how to create list item views for each item in the list
         LocationAdapter adapter = new LocationAdapter(getActivity(), locations);

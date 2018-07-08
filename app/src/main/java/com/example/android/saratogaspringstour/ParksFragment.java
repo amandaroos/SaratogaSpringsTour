@@ -24,7 +24,7 @@ public class ParksFragment extends Fragment {
         //ArrayList of Location objects
         final ArrayList<Location> locations = new ArrayList<Location>();
         locations.add(new Location(getString(R.string.park1_name), getString(R.string.park1_address),
-                getString(R.string.park1_details), R.drawable.neptunepark));
+                getString(R.string.park1_details)R.drawable.neptunepark));
         locations.add(new Location(getString(R.string.park2_name), getString(R.string.park2_address),
                 getString(R.string.park2_details), R.drawable.shaypark));
 
